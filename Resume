@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Aidan Glenn Resume </title>
+        <style>
+           body{ 
+               background-color: rgb(221, 228, 230);
+           }
+         #Athletics {
+             color:rgb(0, 0, 222);
+         }
+       
+           
+       </style>
+ <body> 
+  <h1> My Resume </h1>
+  <p> I am currently in the class of 2023 and attending MHS in Medfield, MA.
+   </p>
+    <h2>Academics</h2>
+        <ul>
+            <li> Weighted GPA: 3.66
+            <li> Unweighted GPA: 3.48 
+            <li> Enrolled in Honors World History and Geometry
+        </ul>
+    <h3 id="Athletics"> Athletics</h3>
+        <ul>
+            <li> JV Basketball
+            <li> Freshman Goalie (Soccer)
+            <li> Medfield Baseball
+        </ul>
+        
+        <h4> About Me </h4>
+        I am a quick and adaptive learner who works best in groups but does not struggle during individual projects. I like to take leadership roles and be a voice for my group. As a leader I can incorparate everyones opinions and also make sure that the work is the best it can be.  
+        
+        
+         </body>
+</head>
+</html>
